@@ -1,0 +1,209 @@
+[
+    {
+   
+    "question1": "When did Nigeria got her independence?",
+    "answers": {
+        "choices1": "October 1st 1963",
+        "choice2": "October 1st 1966",
+        "choice3": "October 1st 1960",
+        "choice4":"October 1st 1980"
+    
+    },
+    "answer": 3,
+},
+{
+    "question2": "Nigeria was amalgamated in the year......?",
+    "answers": {
+        "choice1": "1960",
+        "choice2": "1914",
+        "choice3": "2023",
+        "choice4":"1963"
+    },
+    "answer": 2,
+},
+{
+    "question3": "The first colonial Governor-General of Nigeria was....?",
+    "answers": {
+        "choice1": "Sir Clifford",
+        "choice2": "Sir Mcpherson",
+        "choice3": "Sir Boudillon",
+        "choice4":"Sir Lugard"
+    },
+   "answer": 4,
+},
+{
+    "question4": "Who introduced free education in Western Nigeria....?",
+    "answers": {
+        "choice1": "Ladoke Akintola",
+        "choice2": "Obafemi Awolowo",
+        "choice3": "Olusegun Obasanjo",
+        "choice4":"None of the above"
+    },
+    "answer": 2,
+},
+{
+    "question5": "The freest and fairest election in Nigeria was annulled by General Babangida in the year.....?",
+    "answers": {
+        "choice1":"1920",
+         "choice2": "1960",
+        "choice3": "1993",
+        "choice4":"2003"
+    },
+    "answer": 3,
+},
+{
+    "question6": "Who stopped the killing of twins in Calabar?",
+    "answers": {
+        "choice1": "Flora Shaw",
+        "choice2": "Celine Dion",
+        "choice3": "Mary Slessor",
+        "choice4":"Lady Diana"
+    },
+    "answer": 3,
+},
+{
+    "question7": "The first woman to drive a car in Nigeria was......?",
+    "answers": {
+        "choice1": "Mrs Funmilayo Ransome-Kuti",
+        "choice2": "Mrs Joke Jacobs",
+        "choice3": "Mrs Remi Tinubu",
+        "choice4":"Mrs Janet Adekunle"
+    },
+    "answer": 1,
+},
+{
+    "question8": "Nigeria was colonized by......?",
+    "answers": {
+        "choice1": "USA",
+        "choice2": "France",
+        "choice3": "Great Britain",
+        "choice4":"Spain"
+    },
+    "answer": 3,
+},
+{
+    "question9": "The currency used in Nigeria is called...?",
+    "answers": {
+        "choice1": "dollar",
+        "choice2": "cedi",
+        "choice3": "rand",
+        "choice4":"naira"
+    },
+    "answer": 4,
+},
+{
+
+"question10": "Who was the first and only Prime Minister of Nigeria after independence?",
+"answers": {
+    "choice1":"Ahmadu Bello",
+    "choice2": "Nnamdi Azikwe",
+    "choice3": "Obafemi Awolowo",
+    "choice4":"Tafawa Balewa"
+},
+"answer": 4,
+},
+{
+"question11": "Nigeria became a republic in......?",
+"answers": {
+"choice1": "2023",
+"choice2": "1999",
+"choice3": "1963",
+"choice4":"1960"
+},
+"answer": 3,
+},
+{
+"question12": "The first military man to rule Nigeria was....?",
+"answers": {
+"choice1": "Gen Obasanjo",
+"choice2": "Gen Aguiyi-Ironsi",
+"choice3": "Gen Babangida",
+"choice4":"Gen Abdulsalami"
+},
+"answer": 2, 
+},
+{
+
+"question13": "A piece of land surrounded by water is called......?",
+"answers": {
+"choice1": "path",
+"choice2": "ocean",
+"choice3": "lake",
+"choice4":"island"
+},
+"answer": 4, 
+},
+{
+
+"question14": "A place where two rivers join is called.....?",
+"answers": {
+"choice1": "confluence",
+"choice2": "country",
+"choice3": "lake",
+"choice4":"cemetry"
+},
+"answer": 1, 
+},
+{
+"question15": "Who won the presidential election in the 2023 general election?",
+"answers": {
+"choice1": "Peter Obi",
+"choice2": "Abubakar Atiku",
+"choice3": "Bola Tinubu",
+"choice4":"Patrick Utomi"
+},
+"answer": 3, 
+},
+{
+
+"question16": "Which political party won the presidential election in the 2023 general election?",
+"answers": {
+"choice1": "PDP",
+"choice2": "APC",
+"choice3": "LP",
+"choice4":"Accord"
+},
+"answer": 2, 
+},
+{
+"question17": "Nigeria won her first African Cup of Nation(men football competition)in the year....?",
+"answers": {
+"choice1": "2013",
+"choice2": "1994",
+"choice3": "1980",
+"choice4":"1966"
+},
+"answer": 3, 
+},
+{
+"question18": "Who handed power to the civillian government in Nigeria in 1999?",
+"answers": {
+"choice1": "Gen Obasanjo",
+"choice2": "Gen Akinrinade",
+"choice3": "Gen Babangida",
+"choice4":"Gen Abdulsalami"
+},
+"answer": 4, 
+},
+{
+
+"question19": "Who is Nigeria's first olympic gold medalist?",
+"answers": {
+    "choice1": "Sunday Bada",
+    "choice2": "Chioma Ajunwa",
+    "choice3": "Innocent Egbunike",
+    "choice4":"Chidi Imoh"
+},
+"answer": 2, 
+},
+{
+"question20": "The first African country to win an olympic gold medal in football was ?",
+"answers": {
+"choice1": "Cameroon",
+"choice2": "Egypt",
+"choice3": "Nigeria",
+"choice4":"Tunisia"
+},
+"answer": 3, 
+},
+]
